@@ -1,6 +1,7 @@
+<!doctype html>
 <html>
 	<head>
-		<title> First HTML </title>
+		<title> First HTML</title>
 	</head>
 	
 	<body>
